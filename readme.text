@@ -1,0 +1,13 @@
+******AI Project part3*********
+chung514 and huxxx952 collaborate
+
+Connect4 AI:
+Rewrote AI to play Connect4 game
+
+algorithm ： MinMax combined woth heuristic function
+
+file "chung514_huxxx952_AI.py" is MinMax algorithm class while file "connect4_AI" is another type of algorithm.
+
+to run the game with these two algorithm playing game:
+
+$ python connectfour.py
