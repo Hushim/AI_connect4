@@ -10,4 +10,4 @@ file "chung514_huxxx952_AI.py" is MinMax algorithm class while file "connect4_AI
 
 to run the game with these two algorithm playing game:
 
-$ python connectfour.py
+$ python3.4 connectfour.py
